@@ -31,5 +31,4 @@ async def test_similarity(sentences: SimilarityCalcul):
         "sentence2": sentence2,
         "score": score,
         "compute_time": compute_time
-    }
 

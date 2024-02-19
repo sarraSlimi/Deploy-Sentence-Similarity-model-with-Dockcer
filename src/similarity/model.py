@@ -14,4 +14,3 @@ class Similarity:
 
         return float(cosine_scores)
 
-
