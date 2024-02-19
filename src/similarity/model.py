@@ -13,3 +13,5 @@ class Similarity:
         cosine_scores = util.cos_sim(embeddings1, embeddings2).numpy()[0][0]
 
         return float(cosine_scores)
+
+
